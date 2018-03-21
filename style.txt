@@ -1,0 +1,65 @@
+body{
+	background-image:url(https://tse4.mm.bing.net/th?id=OIP.LLav6Is4UfO-geo-G2pkEAHaD8&pid=15.1&P=0&w=324&h=174) ;
+	background-position: center center; 
+	background-repeat: no-repeat; 	
+	background-size:cover;
+}
+
+#first
+{
+   width:600px;
+   height:480px;
+   float left;
+}
+
+#first #header
+{
+   color:gray;
+   background-position: center center; 
+   background-repeat: no-repeat; 	
+   background-size:cover;
+   width:600px;
+   height:160px;
+}
+
+#first #header #iconOne
+{
+   width:120px;
+   height:160px;
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/600468_256128397825613_1144176325_n.jpg?_nc_eui2=v1%3AAeFHubOu4xkRDYVmP0B3cnPSZjnoZ6sX83iLI-c0pQFyDHojnOKV4UA7miKccnYZIs1q8OFCnPmPFEV7oR0HIxwLBUWJSvbv3Opc7nDrRr9ZEg&oh=892c9eb8d6b8a8470f42630d1f2b972c&oe=5B483C14); 
+   background-repeat: no-repeat; 	
+   background-size:cover;
+}
+
+#first #header #name
+{
+   color:black;
+   width:120px;
+   height:150px;
+   font-size:500%;
+   position:relative;
+   bottom: 100px;
+   left: 150px;
+}
+
+#first #BigP
+{
+   background-image:url(https://pupudog.com/wp-content/uploads/2013/06/DSC5878-1024x683.jpg); 
+   background-repeat: no-repeat; 	
+   background-size:cover;
+   width:600px;
+   height:410px;
+}
+
+#RightP
+{
+   background-image:url(https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/12316473_782541038517677_6142813994484315634_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeGXwb8I-2IWOeoxR33nUpxAdotLHz3fh82R7g9i9eFyxk3HlxQwYzo-meWfU2y-Cg9X_kUCGbsUc00LFxZ2es4z6N59ueSPYzeWY0ZS1VMUFw&oh=adc5df6a118b5f54225cbfada4174989&oe=5B47CB7A); 
+   background-repeat: no-repeat; 	
+   background-size:cover;
+   width:400px;
+   height:570px;
+   float left;
+   position:relative;
+   top:-480px;
+   right:-600px;
+}
